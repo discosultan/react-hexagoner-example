@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300');
+
+body {
+  margin: 0;
+  background-color: #333745;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
