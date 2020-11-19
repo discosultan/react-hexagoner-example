@@ -40,10 +40,11 @@ function App() {
         url: 'https://www.linkedin.com/in/jvarus/',
       },
     ],
-    font: 'Montserrat',
     primaryColor: '#fff',
     primaryText: 'JAANUS VARUS',
+    primaryFont: '28px Montserrat',
     secondaryText: 'Amsterdam, The Netherlands',
+    secondaryFont: '16px Montserrat',
   };
 
   return (
